@@ -1,4 +1,3 @@
-/* eslint-disable no-console */
 import $ from 'jquery';
 
 //my store: used for generating my pre-made bookmarks and updating to it to get my added ones
@@ -32,7 +31,7 @@ import $ from 'jquery';
 // i want a function that takes my store and puts my bookmarks where they belong
 
 function insertPremadeBookmarks() {
-  console.log('hello');
+  return 'hello';
 }
 
 function main() {
