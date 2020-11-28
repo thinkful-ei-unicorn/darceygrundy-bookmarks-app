@@ -40,5 +40,4 @@ function main() {
 
 $(main);
 
-console.log('hiii');
-
+console.log('hiii', main());
