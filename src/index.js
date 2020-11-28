@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 import $ from 'jquery';
 
 //my store: used for generating my pre-made bookmarks and updating to it to get my added ones
